@@ -1,0 +1,7 @@
+# 忽略index.css文件
+
+0111.css
+
+#忽略text下的txt文件
+
+text/*.txt
